@@ -1,4 +1,4 @@
-# Standard
+# Light
 
 It gives a lighter impression than conventional UNITS design. <br>It can be used with other themes.
 
